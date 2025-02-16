@@ -1,6 +1,6 @@
 """ Load Libraries """
 
-import haslib
+import hashlib
 import json
 from time import time
 
